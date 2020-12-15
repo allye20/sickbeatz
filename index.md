@@ -4,10 +4,9 @@ Here you can find tips, turtorials for all ages, and of course, plenty of sick b
 
 # All My Cool Tracks! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PLAYLIST EMBEDDED HERE
 
 ```markdown
-Syntax highlighted code block
 
 # Learn How To...
 Now that you've heard my sick beatz, let me help you create your own!! 
