@@ -4,23 +4,16 @@ Here you can find tips, turtorials for all ages, and of course, plenty of sick b
 
 # All My Cool Tracks! 
 
-PLAYLIST EMBEDDED HERE
+(PLAYLIST EMBEDDED HERE)
 
 ```markdown
 
-# Learn How To...
-Now that you've heard my sick beatz, let me help you create your own!! 
-### Header 3
+Learn How To...
+Now that you've heard my sick beatz, let me help you create your own!! T
 
-- Bulleted
-- List
+(Turtorials Here)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[https://youtu.be/5JuuyMmLtPg](url) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
