@@ -1,4 +1,4 @@
-## Introducing Ally's Sick Beatz! 
+## Introducing, Ally's Sick Beatz! 
 
 Here you can find tips, turtorials for all ages, and of course, plenty of sick beatz! 
 
