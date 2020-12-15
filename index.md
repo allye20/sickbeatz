@@ -8,12 +8,12 @@ Here you can find tips, turtorials for all ages, and of course, plenty of sick b
 
 ```markdown
 
-Learn How To...
+## Learn How To...
 Now that you've heard my sick beatz, let me help you create your own!! T
 
 (Turtorials Here)
 
-[https://youtu.be/5JuuyMmLtPg](url) 
+(url) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
