@@ -1,4 +1,4 @@
-## Welcome to Ally's Sick Beatz! 
+## Introducing Ally's Sick Beatz! 
 
 Here you can find tips, turtorials for all ages, and of course, plenty of sick beatz! 
 
@@ -9,8 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Learn How To...
+Now that you've heard my sick beatz, let me help you create your own!! 
 ### Header 3
 
 - Bulleted
